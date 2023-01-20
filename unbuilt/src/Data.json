@@ -1,0 +1,111 @@
+[
+    {
+        "id":1,
+        "title":"Peter",
+        "link":"https://images6.fanpop.com/image/photos/40700000/14-09-A-Shot-in-the-Dark-family-guy-40739151-2400-1350.jpg",
+        "Description":"Peter Griffin animasyon televizyon dizisi Family Guy'ın baş karakterlerinden bir tanesidir ve aynı zamanda Griffin ailesinin aile reisidir. Seth MacFarlane tarafından seslendirilen Peter, ilk kez diğer aile üyeleriyle birlikte 20 Aralık 1998 tarihinde 15 dakikalık kısa bir filmle televizyon ekranlarında belirdi."
+    },
+    {
+        "id":2,
+        "title":"Lois",
+        "link":"https://wallpapercave.com/wp/wp4618987.png",
+        "Description":"Lois Griffin, animasyon televizyon dizisi Family Guy'ın baş karakterlerinden bir tanesidir. Peter Griffin'in eşi, Meg, Chris ve Stewie'nin annesidir. Eski MADtv oyuncusu Alex Borstein tarafından seslendirilmektedir."
+    },
+    {
+        "id":3,
+        "title":"Stewie",
+        "link":"https://images6.fanpop.com/image/photos/43800000/19x12-And-Then-There-s-Fraud-family-guy-43895241-768-432.jpg",
+        "Description":"Stewart Gilliggan Griffin, Family Guy adlı çizgi dizide Griffin Ailesi'nin en küçük üyesi. En büyük amacı, dünyayı ele geçirmek ve annesi Lois'i öldürmektir. Aslında Stewie annesini çok seviyor ama annesi onu sıktığı için annesini öldürmek istiyor. "
+    },
+    {
+        "id":4,
+        "title":"Meg",
+        "link":"https://images6.fanpop.com/image/photos/40700000/12-19-Meg-Stinks-family-guy-40736178-2400-1350.jpg",
+        "Description":"Megan Griffin Family Guy animasyon serisinin kurgusal karakterlerinden biridir. Lois ve Peter Griffin'in 17 yaşında en büyük çocuklarıdır. Chris ve Stewie'nin kardeşidir. Meg lise öğrencisi olup okulda pek popüler olmayan bir kız öğrencidir."
+    },
+    {
+        "id":5,
+        "title":"Brian",
+        "link":"https://wallpapercave.com/wp/LNeY4al.jpg",
+        "Description":"Brian Griffin, Family Guy televizyon animasyon serisinin kurgusal ve başrol karakterlerinden biri. Griffin ailesinin insan biçimindeki köpeğidir. Seth MacFarlane tarafından seslendirilir. Brian, MacFarlane tarafından dizayn edilip geliştirildi."
+    },
+    {
+        "id":6,
+        "title":"Chris",
+        "link":"https://images6.fanpop.com/image/photos/40700000/10-16-Killer-Queen-family-guy-40721821-2400-1350.jpg",
+        "Description":"Christopher Cross Griffin Family Guy animasyon serisinin kurgusal karakterlerinden biridir. Peter ve Lois Griffin'in 15 yaşındaki erkek çocuklarıdır. Stewie ve Meg Griffin'in kardeşidir. Seth Green tarafından seslendirilmektedir."
+    },
+    {
+        "id":7,
+        "title":"Joe",
+        "link":"https://images6.fanpop.com/image/photos/40700000/13-02-The-Book-of-Joe-family-guy-40739047-4800-2700.jpg",
+        "Description":"Joseph Swanson, yetişkinlere yönelik animasyon televizyon dizisi Family Guy'ın önemli bir karakteridir. O, Quahog Polis Departmanında birçok kez yoğun öfke sorunlarına maruz kalan maço kaslı belden aşağısı felçli bir polis memuru . Bonnie Swanson ile evli ve iki çocuğu var; Susie ve Kevin."
+    },
+    {
+        "id":8,
+        "title":"Glen",
+        "link":"https://mcdn.wallpapersafari.com/medium/67/47/R4n7Ov.jpg",
+        "Description":"Glenn Quagmire animasyon televizyon dizisi Family Guy'ın kurgusal hiperseksüel karakterlerinden biridir. Quagmire'ın yaratıcısı ve seslendiricisi Seth MacFarlane onu 1950'li yıllardaki anakronizme gönderme yaparak rezil insanoğlunun halen ellili yıllarda kalmış bir ferdi olarak tanımlar."
+    },
+    {
+        "id":9,
+        "title":"Cleveland",
+        "link":"https://images6.fanpop.com/image/photos/40700000/14-09-A-Shot-in-the-Dark-family-guy-40739154-2400-1350.jpg",
+        "Description":"Cleveland Orenthal Brown Sr., animasyon televizyon dizisi Family Guy ve onun yan dizisi The Cleveland Show'dan kurgusal bir karakterdir. Griffin ailesinin bir komşusu ve arkadaşıdır ve en çok yumuşak huylu teslimatı ile tanınır."
+    },
+    {
+        "id":10,
+        "title":"Bonnie",
+        "link":"https://images.immediate.co.uk/production/volatile/sites/3/2021/02/bonnie-swanson-9c6519c.jpg",
+        "Description":"Bonnie Swanson, Griffin'in komşusu Joe Swanson'ın eşi ve Kevin ile Susie Swanson'ın annesidir . Bonnie, Ocean's Three and a Half da kızı Susie Swanson'ı doğurana kadar ilk 116 bölüm için hamileydi ve bebeğin kilosunu hızla kaybetti."
+    },
+    {
+        "id":11,
+        "title":"Mort",
+        "link":"https://images6.fanpop.com/image/photos/40700000/10-15-Burning-Down-the-Bayit-family-guy-40721817-4800-2700.jpg",
+        "Description":"Mort Goldman:Mort Goldman , Neil Goldman'ın babası, Muriel Goldman'ın dul eşi ve sonunda Rachel Goldman ile yeniden evlendi . Yahudi ve Goldman's Pharmacy'nin sahibi . Mort, 1980'lerin sonlarında Johnny Brennan tarafından yaratılan The Jerky Boys'un bir karakteri olan Sol Rosenberg'in özelliklerini alıyor."
+    },
+    {
+        "id":12,
+        "title":"Mayor Adam",
+        "link":"https://images.fanpop.com/images/image_uploads/Adam-West-family-guy-684389_1024_768.gif",
+        "Description":"Adam West , Quahog, Rhode Island'ın eksantrik belediye başkanıydı. Aynı isimli oyuncu tarafından seslendirilen bu tekrar eden karakter sürekli olarak vergi mükelleflerinin parasını çarçur etmektedir.  The Story on Page One da kimin suyu çaldığını araştırmak için vergilerden 100.000 dolar harcadı ve suyunu çalmayı bırakmak için Luke Perry ile seks yapmayı kabul etti ; aslında olması gerektiği gibi lavaboya ya da yere gidiyordu."
+    },
+    {
+        "id":13,
+        "title":"Carter",
+        "link":"https://images6.fanpop.com/image/photos/40700000/16-04-Follow-the-Money-family-guy-40771987-2000-1125.jpg",
+        "Description":"Carter Pewterschmidt , Lois'in zengin babası ve Barbara Pewterschmidt'in kocasıdır . US Steel ve Pewterschmidt Industries'in sahibidir . Basmakalıp muhafazakar milyarder olarak tasvir ediliyor. Örneğin eşcinsel evliliği onaylamıyor ve bahçıvan olarak çalışan Meksikalı göçmenleri kullanıyor. Serinin en büyük düşmanlarından biri olarak hizmet ediyor."
+    },
+    {
+        "id":14,
+        "title":"Herbert",
+        "link":"https://images.fanpop.com/images/image_uploads/Herbert-family-guy-684454_1024_768.gif",
+        "Description":"Sapık Herbert lakaplı John Herbert, animasyon televizyon dizisi Family Guy'da Mike Henry tarafından yaratılan ve seslendirilen kurgusal bir karakterdir. Herbert, ilk olarak 3. sezon To Love and Die in Dixie bölümünde ortaya çıkan Griffin ailesinin yaşlı bir komşusudur."
+    },
+    {
+        "id":15,
+        "title":"Angela",
+        "link":"https://tvline.com/wp-content/uploads/2017/01/family-guy-carrie-fisher.jpg?w=620&h=420&crop=1",
+        "Description":"Angela, Pawtucket Brewery'nin Nakliye Departmanı başkanı ve Peter Griffin , Stella ve Opie'nin amiriydi . Carrie Fisher tarafından seslendirilmektedir . Opie'yi Peter'dan çok daha çok seviyordu ve Peter'a çok soğuk davranıyor. Opie'nin eski pozisyonuna terfi ettiği The Courtship of Stewie's Father  da görüldüğü gibi, görünüşe göre Soundwave'i de seviyor."
+    },
+    {
+        "id":16,
+        "title":"Dr. Elmer",
+        "link":"https://i.ytimg.com/vi/_ZuL2av0y8I/hqdefault.jpg",
+        "Description":"Elmer Hartman , çoğu bölümde yüksek düzeyde beceriksizlik göstermesine rağmen Griffin Ailesi'nin doktorudur. Büyük olasılıkla küçük bir çocuk olan bir yeğeni var. Ayrıca Marshall adında bir kuzeni var. Adını , Nickelodeon Serisi The Fairly Oddparents'ı yaratmasıyla tanınan Seth MacFarlane'in iyi arkadaşı ve animatör arkadaşı Butch Hartman'dan almıştır."
+    },
+    {
+        "id":17,
+        "title":"Barbara",
+        "link":"https://images6.fanpop.com/image/photos/40700000/10-09-Grumpy-Old-Man-family-guy-40721785-2400-1350.jpg",
+        "Description":"Barbara Pewterschmidt Lois'in annesi ve Carter Pewterschmidt'in karısıdır. O ve Carter, ikisi de çok zenginler, ancak Rhode Island , Weekapaug'da daha mütevazi başlangıçlarda büyüdüğünü ve yalnızca Carter'ı memnun etmek için bir sınıf görünümünü koruduğunu ortaya koyuyor."
+    },
+    {
+        "id":18,
+        "title":"Tom Tucker",
+        "link":"https://images.fanpop.com/images/image_uploads/Peter-and-Tom-Tucker-family-guy-684143_800_600.jpg",
+        "Description":"Tom Tucker, Quahog 5 News'in sunucusudur . Haberleri hoş bir bariton tonda özetleyen oldukça narsist, yakışıklı, bıyıklı bir adam. İlk Stewie Griffin: The Untold Story bölümü Stewie B. Goode da kovulduğunda bıyığının sahte olduğu ortaya çıktı ve aslında onların mülkü olduğu için stüdyoya iade etmesi emredildi. Tom politik olarak doğru biri değildir ve yardımcı sunucular Diane Simmons ve son olarak Joyce Kinney dahil kimsenin duygularını hesaba katmaz."
+    }
+
+]
